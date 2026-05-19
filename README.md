@@ -14,3 +14,6 @@ An AI-powered career assistant built with Streamlit and Google Gemini.
 - Streamlit
 - Google Gemini API
 - PyPDF2
+
+## Live Demo
+https://ai-career-copilot-4cqyhcywxmazpftt3vqnbz.streamlit.app/  
